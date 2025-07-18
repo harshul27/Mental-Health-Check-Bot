@@ -10,19 +10,6 @@ A compassionate AI agent that helps users reflect on their mental well-being. It
 - 📒 Timestamped local logs of user moods
 - 🔐 Privacy-focused, no external sync by default
 
-
-## 📁 Project Structure
-
-mental-health-bot/
-├── main.py            # Chat loop and core agent logic
-├── tools.py           # Tools for mood logging and tip suggestions
-├── schema.py          # Pydantic output model for structured responses
-├── logs/              # Local folder to store mood logs
-├── .env               # Environment file for API keys (optional)
-├── requirements.txt   # Python package dependencies
-└── README.md          # Project documentation (this file)
-
-
 ## ⚙️ Installation
 
 ### 1. Set up virtual environment (recommended)
