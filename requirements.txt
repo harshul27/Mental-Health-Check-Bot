@@ -3,3 +3,4 @@ langchain-community
 langchain-google-genai
 python-dotenv
 pydantic
+streamlit
